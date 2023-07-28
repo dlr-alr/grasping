@@ -15,5 +15,6 @@ IROS 2023 by
 <!---
 [Full Paper](https://arxiv.org/abs/2303.04705){:target="_blank"} / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"}
 
-![Sequence](assets/imgs/icra23/sequence.png)
 -->
+
+![Front](assets/imgs/iros23/front.png)
