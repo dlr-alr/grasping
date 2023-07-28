@@ -10,7 +10,7 @@ This site complements our paper [**Learning-based Real-time Torque Prediction fo
 
 
 <p align="center">
-![Front](assets/imgs/iros23/front.png)
+<img src="/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
 </p>
 
 

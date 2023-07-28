@@ -17,4 +17,4 @@ IROS 2023 by
 
 -->
 
-![Front](assets/imgs/iros23/front.png)
+<img src="/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
