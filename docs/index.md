@@ -17,4 +17,4 @@ IROS 2023 by
 
 -->
 
-<img src="/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
+<img src="/grasping/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
