@@ -6,6 +6,7 @@ author: "{dominik.winkelbauer,berthold.baeuml,rudolph.triebel}@dlr.de"
 
 header_pages:
   - index.md
+  - _pages/iros22.md
   - _pages/iros23.md
   - _pages/humanoids23.md
 

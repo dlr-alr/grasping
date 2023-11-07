@@ -29,3 +29,13 @@ IROS 2023 by
 <!--- / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"} -->
 
 <img src="/grasping/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
+
+---
+
+### [A Two-stage Learning Architecture that Generates High-Quality Grasps for a Multi-Fingered Hand](_pages/iros22.md)
+IROS 2022 by
+[Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"}, [Matthias Humt](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/){:target="_blank"} and [Rudolph Triebel](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+
+[Full Paper](https://elib.dlr.de/191780/){:target="_blank"} / [Video](https://www.youtube.com/watch?v=j8Lx8AjsN94){:target="_blank"}
+
+<img src="/grasping/assets/imgs/iros22/front.png" alt="drawing" width="400"/>
