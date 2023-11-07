@@ -5,7 +5,7 @@ usemathjax: true
 ---
 ## A Two-Stage Learning Architecture That Generates High-Quality Grasps for a Multi-Fingered Hand 
 
-[Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"} &ensp; [Matthias Humt](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/){:target="_blank"} &ensp; [Rudolph Triebel](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}
+[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"} &ensp; [Matthias Humt](https://scholar.google.de/citations?user=MOJSVsUAAAAJ){:target="_blank"} &ensp; [Nils Thuerey](https://ge.in.tum.de/about/n-thuerey/){:target="_blank"} &ensp; [Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"}
 
 
 <p align="center">
