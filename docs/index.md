@@ -7,7 +7,7 @@ title: Overview
 This site complements our research on grasping. 
 For more information, please refer to one of the papers below.
 
-### [Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand](_pages/humanoids23.md)
+### [Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand](_pages/humanoids23.md)
 Humanoids 2023 by
 [Matthias Humt](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Ulrich Hillenbrand](https://rmc.dlr.de/rm/de/staff/ulrich.hillenbrand/){:target="_blank"} and [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"}.
 
@@ -22,7 +22,8 @@ IROS 2023 by
 [Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"} and [Rudolph Triebel](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 
-[Full Paper](https://elib.dlr.de/197492/){:target="_blank"}<!--- / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"}
+[Full Paper](https://elib.dlr.de/197492/){:target="_blank"}
+<!--- / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"}
 
 -->
 
