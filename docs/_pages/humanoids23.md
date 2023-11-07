@@ -7,9 +7,8 @@ usemathjax: true
 
 [Matthias Humt](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"} &ensp;  [Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Ulrich Hillenbrand](https://rmc.dlr.de/rm/de/staff/ulrich.hillenbrand/){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"}
 
-
 <p align="center">
-<iframe width="746" height="420" src="https://www.youtube.com/watch?v=j8Lx8AjsN94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="746" height="420" src="https://www.youtube.com/embed/j8Lx8AjsN94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
@@ -37,7 +36,7 @@ whole pipeline is fast, taking only about 1 s for completing the
 object’s shape (0.7 s) and generating 1000 grasps (0.3 s).
 
 <p align="center">
-<img src="/grasping/assets/imgs/humanoids23/front.png" alt="drawing" width="400"/>
+<img src="/grasping/assets/imgs/humanoids23/front.png" alt="drawing" width="800"/>
 </p>
 
 Cite this paper as:

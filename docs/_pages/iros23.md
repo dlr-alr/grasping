@@ -3,10 +3,9 @@ layout: page
 title: ICRA 23
 usemathjax: true
 ---
-# Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand
+## Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand
 
-This site complements our paper [**Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand**](){:target="_blank"} by
-[Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"}, [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"} and [Rudolph Triebel](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
+[Dominik Winkelbauer](https://scholar.google.com/citations?hl=en&user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?hl=en&user=SuOUxjUAAAAJ){:target="_blank"} &ensp; [Rudolph Triebel](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ){:target="_blank"}.
 
 
 <p align="center">
@@ -14,7 +13,7 @@ This site complements our paper [**Learning-based Real-time Torque Prediction fo
 </p>
 
 
-# Abstract
+## Abstract
 
 When grasping objects with a multi-finger hand, it is
 crucial for the grasp stability to apply the correct

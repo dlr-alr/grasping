@@ -13,7 +13,9 @@ Humanoids 2023 by
 
 [Full Paper](https://arxiv.org/abs/2310.20350){:target="_blank"} / [Video](https://www.youtube.com/watch?v=j8Lx8AjsN94){:target="_blank"}
 
-<img src="/grasping/assets/imgs/humanoids23/front.png" alt="drawing" width="400"/>
+<p align="center">
+<img src="/grasping/assets/imgs/humanoids23/front.png" alt="drawing" width="800"/>
+</p>
 
 ---
 
@@ -23,8 +25,7 @@ IROS 2023 by
 
 
 [Full Paper](https://elib.dlr.de/197492/){:target="_blank"}
-<!--- / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"}
 
--->
+<!--- / [Video](https://www.youtube.com/watch?v=0VvSIvtHTq0){:target="_blank"} -->
 
 <img src="/grasping/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
