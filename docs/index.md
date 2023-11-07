@@ -38,4 +38,6 @@ IROS 2022 by
 
 [Full Paper](https://elib.dlr.de/191780/){:target="_blank"} / [Video](https://www.youtube.com/watch?v=j8Lx8AjsN94){:target="_blank"}
 
-<img src="/grasping/assets/imgs/iros22/front.png" alt="drawing" width="400"/>
+<p align="center">
+<img src="/grasping/assets/imgs/iros22/front.png" alt="drawing" width="800"/>
+</p>

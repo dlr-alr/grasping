@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IROS 23
+title: IROS 22
 usemathjax: true
 ---
 ## A Two-Stage Learning Architecture That Generates High-Quality Grasps for a Multi-Fingered Hand 
@@ -9,7 +9,7 @@ usemathjax: true
 
 
 <p align="center">
-<img src="/grasping/assets/imgs/iros22/front.png" alt="drawing" width="400"/>
+<img src="/grasping/assets/imgs/iros22/front.png" alt="drawing" width="800"/>
 </p>
 
 
