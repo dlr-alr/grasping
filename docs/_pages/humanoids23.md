@@ -11,6 +11,7 @@ usemathjax: true
 <iframe width="746" height="420" src="https://www.youtube.com/embed/j8Lx8AjsN94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+[Full Paper](https://arxiv.org/abs/2310.20350){:target="_blank"} 
 
 ## Abstract
 

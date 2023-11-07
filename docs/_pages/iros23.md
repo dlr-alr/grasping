@@ -12,6 +12,7 @@ usemathjax: true
 <img src="/grasping/assets/imgs/iros23/front.png" alt="drawing" width="400"/>
 </p>
 
+[Full Paper](https://elib.dlr.de/197492/){:target="_blank"}
 
 ## Abstract
 
