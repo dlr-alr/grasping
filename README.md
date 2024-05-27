@@ -1,1 +1,0 @@
-https://dlr-alr.github.io/grasping/
